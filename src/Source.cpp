@@ -1,7 +1,7 @@
 /* * Project: GALAGA X
  * Major: Computer Science
  * Course: Computer Graphics (CS2206)
- * Group Members: Yara Alsulami, Daniah Hadi, Wasan Alwafi, Reyof Alahmari, Rafah Asharif, Riham Wan-Deraman
+ * Group Members: Yara Alsulami, Daniah Hadi, Wasan Alwafi, Ryoof Alahmari, Rafah Asharif, Riham Wan-Deraman
  * Date: May 2026
  */
 #define _CRT_SECURE_NO_WARNINGS
