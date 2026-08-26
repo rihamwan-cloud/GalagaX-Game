@@ -1,5 +1,11 @@
 # ✈️ Galaga X (2D OpenGL Game)
 
+<p align="center">
+  <img src="Assets/menu.png" width="250" alt="Main Menu"/>
+  <img src="Assets/start.png" width="250" alt="Countdown"/>
+  <img src="Assets/gameplay.png" width="250" alt="Gameplay"/>
+</p>
+
 A 2D aerial survival and obstacle-avoidance game built with C++ and OpenGL (GLUT). Players control a responsive spaceship to dodge incoming hazards, manage health, and navigate through different difficulty levels.
 
 ---
