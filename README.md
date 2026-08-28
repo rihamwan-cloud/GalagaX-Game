@@ -68,7 +68,7 @@ A 2D aerial survival and obstacle-avoidance game built with C++ and OpenGL (GLUT
 ## 👥 Team Contributions
 
 * **Daniah Hadi:** Implemented 2D transformation modules (Rotation & Scaling), contributed to initial code integration, developed the UI countdown timer, and designed the Game Over logic.
-* **Yara Alsulami:** Designed the airplane's wings and tail primitives, engineered the Victory Screen UI, and enhanced overall player model visual dynamics.
+* **Yara Alsulami:** [@s4k4hkq49m-creator] Designed the airplane's wings and tail primitives, engineered the Victory Screen UI, and enhanced overall player model visual dynamics.
 * **Ryoof Alahmari:** Rendered the airplane's core structure (fuselage, nose cone) and applied geometric shading for improved 2D graphics depth.
 * **Rafah Asharif:** Developed the dynamic 2D obstacle generation system, managed scene lighting, and implemented the hearts-based health system.
 * **Wasan Alwafi:** Designed and implemented the Interactive Main Menu & Start Screen, including mouse-click event handling, level selection interface, and game initiation logic.
